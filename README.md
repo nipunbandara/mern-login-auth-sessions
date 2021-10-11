@@ -1,8 +1,5 @@
 ## MERN Login Signup Component
 
-⚠ **Update 3rd April 2021** : React and NodeJS packaged updated/fixed using `npm audit`, Packages updated may have breaking changes, If running the code in this repo causes any issues, send me an e-mail ⚠
-
-Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication.
 
 ## Features
 
@@ -45,11 +42,11 @@ Install packages for React client
 ```
 To Test Locally
 
-remove the line ```"homepage": "https://demos.shawndsilva.com/sessions-auth-app",```
+<!-- remove the line ```"homepage": "https://demos.shawndsilva.com/sessions-auth-app",```
 from ```client/package.json```
 remove ```basename="/sessions-auth-app"```
 from ```client/src/index.js```
-
+ -->
 
 Start Dev Server ( both React server and Nodejs server )
 
@@ -57,7 +54,7 @@ Start Dev Server ( both React server and Nodejs server )
  npm run dev
 ```
 
-## Image Gallery
+<!-- ## Image Gallery
 
 **Homepage**
 <img src="https://i.imgur.com/mjdMhvd.png">
@@ -84,4 +81,4 @@ Start Dev Server ( both React server and Nodejs server )
 
 **Profile Page**
 
-<img src="https://i.imgur.com/JMi9yrH.png">
+<img src="https://i.imgur.com/JMi9yrH.png"> -->
